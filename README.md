@@ -1,5 +1,8 @@
-# An-Updated-ToDo-List
-This is an updated version of the To-Do List I created with React.Js .
-On the previous App, when an item on the list is clicked, it strikes out the text with a list.
-But this offers a new feature where a clicked item on the list is deleted completely from the list.
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
